@@ -16,7 +16,7 @@ The URL of the GitHub repository is https://github.com/unfazedxx/Text_editor
 
 🚀The application has been deployed to Render and the URL of the deployed application is:
  
-https://mighty-waters-80466.herokuapp.com/
+https://text-editor-wpoy.onrender.com/ 
 
 ## Table of Contents
 
@@ -87,17 +87,19 @@ THEN I should have proper build scripts for a webpack application
 ## Screenshots
 
 - This screenshot shows the deployed application right after running (npm start). See in the URL bar where we can install the applicatiion via PWA
-![LocalHost3000 screenshot](image.png)
+![LocalHost3000 screenshot](./images/image.png)
 
 - This next screenshot shows the Service Workers working
-![Registered SW](image-1.png)
+![Registered SW](./images/image-1.png)
 
 - This shows the application working offline 
-![Offline SW](image-2.png)
+![Offline SW](./images/image-2.png)
 
 - This shows the IndexedDB 
-![IndexedDB](<Screenshot 2024-01-29 at 7.45.18 PM.png>)
+![IndexedDB](./images/<Screenshot 2024-01-29 at 7.45.18 PM.png>)
 
+- Application deployed to Render
+![Render Deployment](./images/image-4.png)
  
 ## License
 This project is licensed under the terms of the MIT license.
