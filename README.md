@@ -1,10 +1,15 @@
-# Text_editor
-A text editor which uses progressive web applications (PWA)
-
-
 ## 19 Progressive Web Applications (PWA) : Text Editor
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Technologies](#technologies)
+* [Screenshots](#screenshots)
+* [License](#license)
+* [Author](#author)
 
 ## Description
 
@@ -18,13 +23,7 @@ The URL of the GitHub repository is https://github.com/unfazedxx/Text_editor
  
 https://text-editor-wpoy.onrender.com/ 
 
-## Table of Contents
 
-* [Installation](#installation)
-* [Usage](#usage)
-* [Technologies](#technologies)
-* [Screenshots](#screenshots)
-* [License](#license)
 
 ## Installation
 
@@ -102,6 +101,9 @@ THEN I should have proper build scripts for a webpack application
 ![Render Deployment](./images/image-4.png)
  
 ## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This project is licensed under the terms of the MIT license.
 
 ## Author
